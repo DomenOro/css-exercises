@@ -1,0 +1,14 @@
+.needy-button {
+    background-color: black;
+    color: white;
+}
+
+.needier-button {
+    background-color: yellow;
+}
+
+.needy-button,
+.needier-button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
